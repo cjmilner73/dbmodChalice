@@ -1,0 +1,15 @@
+[
+
+                {"_id": "1", "question":"What is the total DB size in TB?", "answer":"tbc", "type":"number", "weights": [0,0,0,0,0,0,0]},
+                {"_id": "2", "question":"What is the size of the largest table in TB?", "answer":"tbc", "type":"number", "weights": [0,0,0,0,0,0,0]},
+                {"_id": "3", "question":"What is the max disk IOPS?", "answer":"tbc", "type":"number", "weights": [0,0,0,0,0,0,0]},
+                {"_id": "4", "question":"What is the max number of concurrent sessions?","answer":"tbc", "type":"number", "weights": [0,0,0,0,0,0,0]},
+                {"_id": "5", "question":"What is the expected response time, in ms?", "answer":"tbc", "type":"number", "weights": [0,0,0,0,0,0,0]},
+                {"_id": "6", "question":"What is the maximum reads/writes per second?", "answer":"tbc", "type":"number", "weights": [0,0,0,0,0,0,0]},
+                {"_id": "7", "question":"What percentage of queries generally complex and span multiple tables?", "answer":"tbc", "type":"number", "weights": [0,0,0,0,0,0,0]},
+                {"_id": "8", "question":"What percentage of queries single lookup key/value?", "answer":"tbc", "type":"number", "weights": [0,0,0,0,0,0,0]},
+                {"_id": "9", "question":"What percentage of queries are graph related (node/vertices)?", "answer":"tbc", "type":"number", "weights": [0,0,0,0,0,0,0]},
+                {"_id": "10", "question":"What percentage of queries use aggregates?", "answer":"tbc", "type":"number", "weights": [0,0,0,0,0,0,0]},
+                {"_id": "11", "question":"Is the data required to be immutable?", "answer":"tbc", "type":"number", "weights": [0,0,0,0,0,0,0]},
+                {"_id": "12", "question":"Is the user base global?", "answer":"tbc", "type":"number", "weights": [0,0,0,0,0,0,0]}
+]
